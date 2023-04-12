@@ -1,6 +1,4 @@
-package Ch5;
-
-import javax.swing.*;
+package ch5;
 
 public class ArrayEx16 {
     public static void main(String[] args) {

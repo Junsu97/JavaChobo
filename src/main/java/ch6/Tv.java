@@ -1,0 +1,12 @@
+package ch6;
+
+public class Tv {
+    String color; //색깔
+    boolean power; // 전원 상태(on/off)
+    int channel;  //채널
+
+    void power() {power = !power;}
+    void channerUp(){channel++;}
+    void channelDown(){channel--;}
+
+}
